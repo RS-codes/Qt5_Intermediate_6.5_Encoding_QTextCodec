@@ -1,3 +1,5 @@
 # Qt5_Intermediate_6.5_Encoding_QTextCodec
 
-#SourceCode to be added soon
+#Under Encoding QTextCodec discussed and
+
+#SourceCode added 
